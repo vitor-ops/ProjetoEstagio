@@ -1,0 +1,29 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+   <ItemGroup>
+    <DotNetCliToolReference Include="Microsoft.EntityFrameworkCore.Tools.DotNet" Version="2.0.1" />
+  </ItemGroup>
+
+   <ItemGroup>
+     <PackageReference Include="Microsoft.Azure.ServiceBus" Version="5.1.0" />
+     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.1" />
+     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="5.0.1" />
+     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="5.0.1">
+       <PrivateAssets>all</PrivateAssets>
+       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+     </PackageReference>
+     <PackageReference Include="System.Data.SqlClient" Version="4.8.2" />
+   </ItemGroup>
+
+   <ItemGroup>
+     <Reference Include="ClientProject">
+       <HintPath>D:\Projetos C#\ClientProject\ClientProject\bin\Debug\netcoreapp3.1\ClientProject.dll</HintPath>
+     </Reference>
+   </ItemGroup>
+
+</Project>

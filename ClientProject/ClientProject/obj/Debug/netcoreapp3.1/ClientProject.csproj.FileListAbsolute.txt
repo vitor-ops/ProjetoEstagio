@@ -1,0 +1,13 @@
+D:\Projetos C#\ClientProject\ClientProject\bin\Debug\netcoreapp3.1\ClientProject.exe
+D:\Projetos C#\ClientProject\ClientProject\bin\Debug\netcoreapp3.1\ClientProject.deps.json
+D:\Projetos C#\ClientProject\ClientProject\bin\Debug\netcoreapp3.1\ClientProject.runtimeconfig.json
+D:\Projetos C#\ClientProject\ClientProject\bin\Debug\netcoreapp3.1\ClientProject.runtimeconfig.dev.json
+D:\Projetos C#\ClientProject\ClientProject\bin\Debug\netcoreapp3.1\ClientProject.dll
+D:\Projetos C#\ClientProject\ClientProject\bin\Debug\netcoreapp3.1\ClientProject.pdb
+D:\Projetos C#\ClientProject\ClientProject\obj\Debug\netcoreapp3.1\ClientProject.csprojAssemblyReference.cache
+D:\Projetos C#\ClientProject\ClientProject\obj\Debug\netcoreapp3.1\ClientProject.AssemblyInfoInputs.cache
+D:\Projetos C#\ClientProject\ClientProject\obj\Debug\netcoreapp3.1\ClientProject.AssemblyInfo.cs
+D:\Projetos C#\ClientProject\ClientProject\obj\Debug\netcoreapp3.1\ClientProject.csproj.CoreCompileInputs.cache
+D:\Projetos C#\ClientProject\ClientProject\obj\Debug\netcoreapp3.1\ClientProject.dll
+D:\Projetos C#\ClientProject\ClientProject\obj\Debug\netcoreapp3.1\ClientProject.pdb
+D:\Projetos C#\ClientProject\ClientProject\obj\Debug\netcoreapp3.1\ClientProject.genruntimeconfig.cache
